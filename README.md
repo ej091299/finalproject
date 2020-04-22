@@ -37,5 +37,5 @@ with partial html files.  When you complete this project, you will be able to bu
 * [SCSS Homepage](https://sass-lang.com/guide)
 * [Markdown Cheat Sheet Reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-#Project Running in BrowserSync
+# Project Running in BrowserSync
 ![Project in Browser Sync](screenshots/screenshot.png)
